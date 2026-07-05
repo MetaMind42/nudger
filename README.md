@@ -4,7 +4,7 @@
 [![License: MPL][license_badge]][license_link]
 [![Powered by Dart Frog](https://img.shields.io/endpoint?url=https://tinyurl.com/dartfrog-badge)](https://dartfrog.vgv.dev)
 
-Keep-alive utility for scale-to-zero Oracle ATP DBs. Utility provides a /nudge endpoint that lets you send a lightweight (non-data) SQL query from time to time to keep your staging database alive.
+Keep-alive utility for scale-to-zero Oracle ATP DBs. Provides you with a /nudge endpoint.
 
 ## Stack
 
@@ -15,7 +15,7 @@ Keep-alive utility for scale-to-zero Oracle ATP DBs. Utility provides a /nudge e
 - Docker
 
 ## Deployment
-To get started, use the provided Dockerfile to deploy the utility. After that, you can call the /nudge endpoint whenever you need.
+Use the provided Dockerfile to deploy the utility. You can call the /nudge endpoint then.
 
 ```
 docker build -t nudger .
