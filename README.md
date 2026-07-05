@@ -24,7 +24,7 @@ curl http://localhost:8080/nudge
 ```
 
 ## License
-Released under [Mozilla Public License 2.0](https://opensource.org/license/mpl-2.0/). Use, modify and distribute freely. Including for commercial purposes, as long as changes to MPL-licensed files stay under the same license and the license notice is preserved.
+Released under [Mozilla Public License 2.0](https://opensource.org/license/mpl-2.0/). Use, modify and distribute freely. Including for commercial purposes. As long as changes to MPL-licensed files stay under the same license and the license notice is preserved.
 
 [license_badge]: https://img.shields.io/badge/license-MPL--2.0-blue.svg
 [license_link]: https://opensource.org/licenses/MPL-2.0
